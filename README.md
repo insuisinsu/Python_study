@@ -38,4 +38,16 @@ python practice.py
 
 ---
 
+## 📅 학습 기록 (Update History)
+
+| 날짜 (Date) | 커밋 메시지 (Commit Message) | 작업 내용 (Details) | 관련 파일 (Files) |
+| :--- | :--- | :--- | :--- |
+| 2026-05-26 | **update operators** | 연산자 연습 문제(Quiz) 추가 및 math/random 라이브러리 학습 | [02_operators/practice.py](file:///d:/python_study/02_operators/practice.py), [02_operators/quiz.py](file:///d:/python_study/02_operators/quiz.py) |
+| 2026-05-26 | **update datetypes** | 자료형 학습 내용 보완 (출력문 연결 연산자 및 쉼표 구분 출력 연습) | [01_datatypes/practice.py](file:///d:/python_study/01_datatypes/practice.py) |
+| 2026-05-26 | **Organize study topics...** | 파이썬 학습 목차 폴더 구조화 및 주제별 기초 실습 템플릿 코드 생성 | 모든 폴더 및 파일 |
+| 2026-05-26 | **Initial commit** | 첫 번째 파이썬 프로그램 작성 | [hello.py](file:///d:/python_study/hello.py) |
+
+---
+
 열심히 공부해서 파이썬 마스터가 되어봅시다! 화이팅! 💪🔥
+
