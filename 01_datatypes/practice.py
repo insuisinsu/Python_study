@@ -30,3 +30,8 @@ print(name + "는 " + str(age) + "살이요", end=" ")
 print(name + "는 빨리 자라요", end=" ")
 print(name + "는 꼬리를 흔들어요", end=" ")
 print(name + "는 귀여워요")
+
+
+# + 를 넣으면 붙여쓰기
+print(name + str(age) + "빨리자라요" + "꼬리를흔들어요" + "귀여워요")
+print(name , str(age), "빨리 자라요", "꼬리를 흔들어요", "귀여워요")
