@@ -42,6 +42,7 @@ python practice.py
 
 | 날짜 (Date) | 커밋 메시지 (Commit Message) | 변경된 파일 (Modified Files) |
 | :--- | :--- | :--- |
+| 2026-05-26 | **add update_readme** | - |
 | 2026-05-26 | **update strings** | `03_strings/practice.py` |
 | 2026-05-26 | **docs: add push history to README.md** | - |
 | 2026-05-26 | **update operators** | `02_operators/practice.py`, `02_operators/quiz.py` |
