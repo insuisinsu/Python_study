@@ -42,6 +42,7 @@ python practice.py
 
 | 날짜 (Date) | 커밋 메시지 (Commit Message) | 변경된 파일 (Modified Files) |
 | :--- | :--- | :--- |
+| 2026-05-27 | **update functions** | `06_functions/practice.py`, `06_functions/quiz.py` |
 | 2026-05-27 | **update control flow** | `05_control_flow/practice.py`, `05_control_flow/quiz.py` |
 | 2026-05-27 | **update data structures** | `04_data_structures/practice.py`, `04_data_structures/quiz.py` |
 | 2026-05-26 | **add update_readme** | - |
